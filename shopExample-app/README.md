@@ -1,9 +1,11 @@
 # ShopExampleApp
 
-This project is based on the ready-made sample project in [StackBlitz](https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html), found at angular.io/start.
+This project is based on the [ready-made sample project](https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html) in StackBlitz, found at [angular.io/start](https://angular.io/start).
 
 This is a learning project following the getting-started tutorial on angular.io
 
+
+# Useful information for setting up and running this application
 
 ## Development server
 
