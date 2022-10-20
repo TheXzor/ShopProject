@@ -1,6 +1,9 @@
 # ShopExampleApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+This project is based on the ready-made sample project in [StackBlitz](https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html), found at angular.io/start.
+
+This is a learning project following the getting-started tutorial on angular.io
+
 
 ## Development server
 
