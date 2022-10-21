@@ -1,4 +1,4 @@
-# ShopExampleApp
+# Shop Project App
 
 This project is based on the [ready-made sample project](https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html) in StackBlitz, found at [angular.io/start](https://angular.io/start).
 
